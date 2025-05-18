@@ -223,8 +223,4 @@ Destek Yönetimi
 📧 İletişim
 Sorularınız veya önerileriniz için:
 
-E-posta: efe@example.com
-GitHub: kullanici/crm-sistemi
-
-
-Gelişmiş CRM Sistemi ile müşteri ilişkilerinizi güçlendirin! 🚀
+E-posta: efe.ahmet@netline.net.tr
